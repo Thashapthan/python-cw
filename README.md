@@ -1,0 +1,1 @@
+Developed a Python program to predict students' progression outcomes, demonstrating strong Python programming skills, input validation, and data manipulation. The project includes a user-friendly interface and the ability to communicate and explain code effectively.
